@@ -9,7 +9,7 @@
   - [云原生](#Devops)
   - [计算机类基础资源](#计算机类基础资源)
   - [Java](#java)
-    - [Java 资源](#Java 资源)
+    - [Java 资源](#Java-资源)
     - [工具集和中间件](#工具集和中间件)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -47,7 +47,7 @@
 
 ## Java 
 
-### Java 资源
+### Java-资源
 
 - [advanced-java](https://github.com/doocs/advanced-java) - ⭐️互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 - [JavaWiki](https://github.com/iwannarun/JavaWiki) - JAVA 开发大集合，包含 JVM，Netty，数据库（Mongodb、Redis、MyBatis-plus），工具（Git、Maven、Nginx），设计模式，算法等
