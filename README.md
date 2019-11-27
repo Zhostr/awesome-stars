@@ -40,8 +40,10 @@
 ## 计算机类基础资源
 
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [translations](https://github.com/oldratlee/translations) - 🐼 Chinese translations for classic IT resources
-- [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: Tech Interview Guide 技术面试必备基础知识、Leetcode、Java、C++、Python、后端面试、计算机操作系统、计算机网络、系统设计
+- [translations](https://github.com/oldratlee/translations) - ⭐️ Chinese translations for classic IT resources
+- [advanced-java](https://github.com/doocs/advanced-java) - ⭐️互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+- [JavaWiki](https://github.com/iwannarun/JavaWiki) - JAVA 开发大集合，包含 JVM，Netty，数据库（Mongodb、Redis、MyBatis-plus），工具（Git、Maven、Nginx），设计模式，算法等
+- [java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
 
 
 
@@ -49,11 +51,6 @@
 
 ### Java-资源
 
-- [advanced-java](https://github.com/doocs/advanced-java) - ⭐️互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
-- [JavaWiki](https://github.com/iwannarun/JavaWiki) - JAVA 开发大集合，包含 JVM，Netty，数据库（Mongodb、Redis、MyBatis-plus），工具（Git、Maven、Nginx），设计模式，算法等
-- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
-- [java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
-- ==================================== 👇练习项目 ====================================
 - [mall-learning](https://github.com/macrozheng/mall-learning) - mall学习教程，架构、业务、技术要点全方位解析。mall项目（20k+star）是一套电商系统，使用现阶段主流技术实现。 涵盖了SpringBoot2.1.3、MyBatis3.4.6、Elasticsearch6.2.2、RabbitMQ3.7.15、Redis3.2、Mongodb3.2、Mysql5.7等技术，采用Docker容器化部署。
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) - **[wuyouzhuguli 出品⭐️]** 循序渐进学习 Spring Boot、Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2，博客 Spring 系列源码
 - [spring-cloud-gray](https://github.com/SpringCloud/spring-cloud-gray) - Spring Cloud版本控制和灰度starter
