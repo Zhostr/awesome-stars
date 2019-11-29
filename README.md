@@ -6,20 +6,17 @@
 ## Contents
 
   - [Algorithm](#Algorithm)
-  - [云原生](#Devops)
   - [计算机类基础资源](#计算机类基础资源)
   - [Java](#java)
     - [Java 资源](#Java-资源)
     - [工具集和中间件](#工具集和中间件)
-  - [JavaScript](#javascript)
-  - [Jupyter Notebook](#jupyter-notebook)
-  - [Makefile](#makefile)
-  - [Objective-C](#objective-c)
-  - [Others](#others)
-  - [PLpgSQL](#plpgsql)
-  - [Python](#python)
-  - [Ruby](#ruby)
+  - [数据库](#数据库)
+  - [深度学习](#深度学习)
   - [Linux](#Linux)
+  - [云原生](#Devops)
+  - [独立博客](#独立博客)
+  - [职业发展](#职业发展)
+  - [Others](#others)
 
 
 
@@ -30,20 +27,12 @@
 
 
 
-## Devops
-
-- [qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) - Knative入门——构建基于 Kubernetes 的现代化Serverless应用
-
-
-
 ## 计算机类基础资源
 
 - [interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [translations](https://github.com/oldratlee/translations) - ⭐️ Chinese translations for classic IT resources
-- [advanced-java](https://github.com/doocs/advanced-java) - ⭐️互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
-- [JavaWiki](https://github.com/iwannarun/JavaWiki) - JAVA 开发大集合，包含 JVM，Netty，数据库（Mongodb、Redis、MyBatis-plus），工具（Git、Maven、Nginx），设计模式，算法等
-- [java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
+- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
+- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
 
 
 
@@ -58,6 +47,9 @@
 - [woker](https://github.com/muyinchen/woker) - ⭐️ RxJava 响应式编程视频，Java8、Netty
 - [pragmatic-java-engineer](https://github.com/superhj1987/pragmatic-java-engineer) - Java工程师修炼之道 —— 梳理Java知识体系，沓实架构基础
 - [Source-code-analysis](https://github.com/stalary/Source-code-analysis) - java源码分析
+- [advanced-java](https://github.com/doocs/advanced-java) - ⭐️互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+- [JavaWiki](https://github.com/iwannarun/JavaWiki) - JAVA 开发大集合，包含 JVM，Netty，数据库（Mongodb、Redis、MyBatis-plus），工具（Git、Maven、Nginx），设计模式，算法等
+- [java-study](https://github.com/xuwujing/java-study) - java-study 是本人学习Java过程中记录的一些代码！从Java基础的数据类型、jdk1.8的Lambda、Stream和日期的使用、 IO流、数据集合、多线程使用、并发编程、23种设计模式示例代码、常用的工具类， 以及一些常用框架，netty、mina、springboot、kafka、storm、zookeeper、redis、elasticsearch、hbase、hive等等。
 
 
 
@@ -113,34 +105,7 @@
 ## 深度学习
 
 - [Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch) - 本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。
-
-
-
-## 独立博客
-
-- [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ⭐️ Halfrost-Field 冰霜之地，Go 语言，机器学习，各种协议（HTTP、HTTPS、WebSocket、TCP 等）
-- [blog](https://github.com/bestswifter/blog) - ⭐️ 我的博客
-- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
-
-
-
-## 职业发展
-
-- [Transcript](https://github.com/xiaojue/careerLive/blob/master/data/Transcript.md#part-05) - 职级晋升述职
-
-
-
-## Python 
-
 - [d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。英文版即伯克利“深度学习导论”教材。
-- [Computer-Networking-A-Top-Down-Approach-NOTES](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES) - 《计算机网络－自顶向下方法(原书第6版)》编程作业，Wireshark实验文档的翻译和解答。
-- [Gank-Alfred-Workflow](https://github.com/hujiaweibujidao/Gank-Alfred-Workflow) - :wolf: An Alfred Workflow for searching ganks(干货) in gank.io
-
-
-
-## Ruby 
-
-- [Learning-SICP](https://github.com/DeathKing/Learning-SICP) - MIT视频公开课《计算机程序的构造和解释》中文化项目及课程学习资料搜集。
 
 
 
@@ -155,9 +120,24 @@
 
 
 
-## You Don't Know Github
+## Devops
 
-- [github-actions-demo](https://github.com/ruanyf/github-actions-demo) - a demo of GitHub actions for a simple React App
+- [qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+- [getting-started-with-knative](https://github.com/servicemesher/getting-started-with-knative) - Knative入门——构建基于 Kubernetes 的现代化Serverless应用
+
+
+
+## 独立博客
+
+- [Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ⭐️ Halfrost-Field 冰霜之地，Go 语言，机器学习，各种协议（HTTP、HTTPS、WebSocket、TCP 等）
+- [blog](https://github.com/bestswifter/blog) - ⭐️ 我的博客
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表
+
+
+
+## 职业发展
+
+- [Transcript](https://github.com/xiaojue/careerLive/blob/master/data/Transcript.md#part-05) - 职级晋升述职
 
 
 
@@ -177,6 +157,8 @@
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [爱国上网-免费SSR](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+- [Gank-Alfred-Workflow](https://github.com/hujiaweibujidao/Gank-Alfred-Workflow) - :wolf: An Alfred Workflow for searching ganks(干货) in gank.io
+- [github-actions-demo](https://github.com/ruanyf/github-actions-demo) - a demo of GitHub actions for a simple React App
 
 
 
