@@ -22,6 +22,7 @@
 
 ## Algorithm 
 
+- [The-Art-Of-Programming-By-July](https://labuladong.gitbook.io/algo/) - 手把手撕LeetCode题目，扒各种算法套路的裤子
 - [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md) - 《编程之法：面试和算法心得》
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [Algorithm-Visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - ⭐️⭐️ 可视化算法的执行过程，在线展示平台。Interactive Online Platform that Visualizes Algorithms from Code https://algorithm-visualizer.org
